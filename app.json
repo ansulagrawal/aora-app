@@ -21,7 +21,7 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "pakage": "com.ansul.aora"
+      "package": "com.ansul.aora"
     },
     "web": {
       "favicon": "./assets/favicon.png"
