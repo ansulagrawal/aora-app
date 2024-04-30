@@ -145,7 +145,7 @@ Download the [Expo Go](https://expo.dev/go) app onto your device, then use it to
 
 **Build**
 
-Create a account on [expo](expo.dev) then flow below steps:
+Create a account on [expo](https://expo.dev) then flow below steps:
 
 ```bash
 npm install -g eas-cli && eas login
